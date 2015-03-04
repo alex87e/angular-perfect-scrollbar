@@ -11,7 +11,7 @@ Installation
 Install via Bower:
 
 ````
-$ bower install angular-perfect-scrollbar --save
+$ bower install ns-angular-perfect-scrollbar --save
 ```
 
 Include the angular-perfect-scrollbar files in your index.html:
